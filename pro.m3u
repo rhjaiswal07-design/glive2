@@ -1,0 +1,55 @@
+#EXTM3U
+
+# ===== MAIN GLOBAL (3000+ channels) =====
+https://iptv-org.github.io/iptv/index.m3u
+
+# ===== INDIA =====
+https://iptv-org.github.io/iptv/countries/in.m3u
+
+# ===== ASIA =====
+https://iptv-org.github.io/iptv/regions/asia.m3u
+
+# ===== EUROPE =====
+https://iptv-org.github.io/iptv/regions/eur.m3u
+
+# ===== AMERICAS =====
+https://iptv-org.github.io/iptv/regions/amer.m3u
+
+# ===== AFRICA =====
+https://iptv-org.github.io/iptv/regions/afric.m3u
+
+# ===== NEWS =====
+https://iptv-org.github.io/iptv/categories/news.m3u
+
+# ===== SPORTS (FREE / FAST TV) =====
+https://iptv-org.github.io/iptv/categories/sports.m3u
+
+# ===== MOVIES =====
+https://iptv-org.github.io/iptv/categories/movies.m3u
+
+# ===== MUSIC =====
+https://iptv-org.github.io/iptv/categories/music.m3u
+
+# ===== KIDS =====
+https://iptv-org.github.io/iptv/categories/kids.m3u
+
+# ===== DOCUMENTARY =====
+https://iptv-org.github.io/iptv/categories/documentary.m3u
+
+# ===== EDUCATION =====
+https://iptv-org.github.io/iptv/categories/education.m3u
+
+# ===== SCIENCE =====
+https://iptv-org.github.io/iptv/categories/science.m3u
+
+# ===== RELIGION =====
+https://iptv-org.github.io/iptv/categories/religion.m3u
+
+# ===== CULTURE =====
+https://iptv-org.github.io/iptv/categories/culture.m3u
+
+# ===== FAST TV (MOVIES + SHOWS) =====
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_pluto.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_plex.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_rakuten.m3u
+https://raw.githubusercontent.com/iptv-org/iptv/master/streams/us_roku.m3u
