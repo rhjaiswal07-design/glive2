@@ -1,32 +1,31 @@
-# 🌍 GLOBAL (Huge list 1000+ streams)
+#EXTM3U
+
+# ===== MAIN GLOBAL (3000+ FREE CHANNELS) =====
 https://iptv-org.github.io/iptv/index.m3u
 
-# 🇮🇳 INDIA only
+# ===== INDIA (FREE TO AIR) =====
 https://iptv-org.github.io/iptv/countries/in.m3u
 
-# 🗺️ Asia region
-https://iptv-org.github.io/iptv/regions/asia.m3u
-
-# 📰 NEWS category
+# ===== NEWS =====
 https://iptv-org.github.io/iptv/categories/news.m3u
 
-# ⚽ SPORTS category
+# ===== SPORTS (FREE / FAST TV) =====
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
-# 🎬 MOVIES category
+# ===== MOVIES =====
 https://iptv-org.github.io/iptv/categories/movies.m3u
 
-# 🎵 MUSIC category
+# ===== MUSIC =====
 https://iptv-org.github.io/iptv/categories/music.m3u
 
-# 🧒 KIDS
+# ===== KIDS =====
 https://iptv-org.github.io/iptv/categories/kids.m3u
 
-# 📚 EDUCATION
-https://iptv-org.github.io/iptv/categories/education.m3u
-
-# 🐐 DOCUMENTARY
+# ===== DOCUMENTARY =====
 https://iptv-org.github.io/iptv/categories/documentary.m3u
 
-# 🔬 SCIENCE
+# ===== EDUCATION =====
+https://iptv-org.github.io/iptv/categories/education.m3u
+
+# ===== SCIENCE =====
 https://iptv-org.github.io/iptv/categories/science.m3u
