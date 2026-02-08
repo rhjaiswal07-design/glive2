@@ -1,1 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="iptv-org" tvg-name="IPTV-ORG Full Playlist" tvg-logo="https://iptv-org.github.io/iptv/assets/logo.png" group-title="IPTV-ORG",IPTV-ORG Master Playlist
 https://iptv-org.github.io/iptv/index.m3u
