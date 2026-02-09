@@ -1,4 +1,15 @@
 #EXTM3U
+#EXTINF:-1,NASA TV
+https://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
 
-#EXTINF:-1 tvg-id="iptv-org" tvg-name="IPTV-ORG Full Playlist" tvg-logo="https://iptv-org.github.io/iptv/assets/logo.png" group-title="IPTV-ORG",IPTV-ORG Master Playlist
-https://iptv-org.github.io/iptv/index.m3u
+#EXTINF:-1,DW English
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1,France 24 EN
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1,Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1,NHK World
+https://nhkwlive-xjp-nhkworld.akamaized.net/hls/live/2003458/nhkworld/master.m3u8
